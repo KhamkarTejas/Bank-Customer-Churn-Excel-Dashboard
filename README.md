@@ -71,6 +71,17 @@ The dashboard is divided into two key sections:
 
 * **Complaint handling and customer engagement** play a critical role in retention.
 
+## 📊 Dashboard Preview
+
+
+<img width="1394" height="625" alt="Demographic" src="https://github.com/user-attachments/assets/ce444270-8cac-4047-ad35-b6b6230bcba9" />
+
+
+<img width="1400" height="626" alt="Financial" src="https://github.com/user-attachments/assets/a157dd80-4147-44c1-827b-b7d9d65dfba4" />
+
+
+
+
 ## 📁 Repository Structure
 ```
 Bank-Customer-Churn-Excel-Dashboard/
@@ -100,3 +111,10 @@ Bank-Customer-Churn-Excel-Dashboard/
 * Understanding of customer churn factors using real-world-style data.
 
 * Strengthened skills in data storytelling and dashboard presentation.
+
+## 🔗 Connect With Me
+**👤 Tejas Khamkar**  
+Aspiring Data Analyst | Excel Enthusiast | Google Data Analytics Certified  
+📫 [LinkedIn](www.linkedin.com/in/tejaskhamkar) 
+
+⭐ *If you like this project, consider giving it a star on GitHub!*
