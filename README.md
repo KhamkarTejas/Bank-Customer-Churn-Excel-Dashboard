@@ -75,14 +75,28 @@ The dashboard is divided into two key sections:
 ```
 Bank-Customer-Churn-Excel-Dashboard/
 │
-├── 📊 Dashboard Screenshots/
-│   ├── Bank-churn-demographic.png
-│   ├── Bank-churn-financial.png
+├── Dashboard Screenshots/
+│   ├── Demographic.PNG
+│   ├── Financial.PNG
 │
-├── 📜 README.md  ← (You are here)
+├── Bank Customer Churn Analysis Dashboard.xlsx
 │
-└── 📈 Excel Dashboard File/
-    └── Bank_Customer_Churn_Analysis.xlsx
+└── README.md  ← (You are here)
 ```
-  
-  
+## 🚀 How to Use
+
+1. Download the Excel file from this repository.
+
+2. Open in Microsoft Excel (Office 365 or 2019+).
+
+3. Explore using the interactive slicers (Gender, Geography, Complaint Status).
+
+4. Review charts and insights for data-driven decision-making.
+
+## 🧠 Learning Outcome
+
+* Hands-on experience with Excel data analysis & visualization.
+
+* Understanding of customer churn factors using real-world-style data.
+
+* Strengthened skills in data storytelling and dashboard presentation.
